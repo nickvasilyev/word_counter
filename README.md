@@ -1,1 +1,1 @@
-# word_counter
+# Python Word Counter Video Series
